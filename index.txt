@@ -1,0 +1,109 @@
+
+CALMA
+Onboarding
+Home
+Therapists
+Booking
+Info hub
+Community
+Video call
+Calma · UI Prototype v1
+ONBOARDING FLOW — 5 STEPS
+STEP 1 · WELCOME
+
+
+CALMA
+Mental health support
+for immigrants —
+in your language
+Get started
+I already have an account
+
+Your data is encrypted and never shared without consent.
+STEP 2 · YOUR LANGUAGE
+
+
+
+
+
+
+2 of 5
+What's your native language?
+We'll match you with therapists who speak it fluently.
+🇬🇪
+Georgian
+🇵🇹
+Portuguese
+🇦🇷
+Spanish
+🇬🇧
+English
+🇦🇪
+Arabic
+
+or search
+
+
+Continue
+STEP 3 · WHAT BRINGS YOU HERE
+
+
+
+
+
+
+3 of 5
+What are you dealing with?
+Select all that apply. Helps us find the right match.
+Anxiety or stress
+✓
+Loneliness / isolation
+✓
+Depression Cultural adjustment Work / career pressure Family & relationships
+Continue
+STEP 4 · YOUR PROFILE
+
+
+
+
+
+
+4 of 5
+Tell us a bit about you
+Anonymous by default — only your therapist sees this.
+
+First name (or a nickname)
+Nina
+Country of origin
+Georgia 🇬🇪
+How long in Spain?
+Less than 6 months6 months – 2 yearsMore than 2 years
+Continue
+STEP 5 · YOUR MATCHES
+
+
+
+
+
+
+5 of 5
+Your therapist matches
+Based on language, concerns, and availability.
+AT
+Anna Tsiklauri
+Anxiety · Immigration stress · 🇬🇪 🇬🇧
+98%
+match
+MK
+Mariam Kvaratskhelia
+Depression · Cultural loss · 🇬🇪
+91%
+match
+LS
+Laia Serra
+Anxiety · Expat stress · 🇬🇧
+84%
+match
+Book my first session
+CALMA · UI Prototype v1 · EAE Business School Master Thesis 2026
+Nino Abesadze · Rita Álvares de Carvalho Machado da Franca · Raylene Bou Nassar
